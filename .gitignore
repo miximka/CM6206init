@@ -1,0 +1,13 @@
+.DS_Store
+.LSOverride
+
+## Xcode ##
+/build
+xcuserdata
+
+## fastlane ##
+/fastlane/test_output
+/fastlane/report.xml
+/fastlane/screenshots/generated
+/fastlane/screenshots/frames
+/fastlane/screenshots/output
